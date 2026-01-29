@@ -1,0 +1,47 @@
+{
+  "S33507": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
+    "receiver": "Frank Scholz, Wodorf 10, 23974 Blowatz, Deutschland",
+    "price": "2.600,00 €",
+    "description": "Hersteller: SEAT<br>Typ: MO 125 Elektroroller<br>Fahrgestelnummer: UCYS01S0ZNB004145<br>Erstzulassung: 06/2022<br>KM laut Vorbesitzer: 8.057 km<br>Leistung: 7 kW (10 PS)<br>Farbe: Rot<br><br>Das Roller ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Frank Scholz<br>Wodorf 10<br>23974 Blowatz<br>Deutschland<br>Telefon: +49 151 2043 1188",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "29.01.2026",
+    "deliveryDate": "04.02.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
