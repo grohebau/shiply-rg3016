@@ -1,6 +1,6 @@
 {
   "S33507": {
-    "status": "Warten auf Zahlung",
+    "status": "Versandvorbereitung",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
     "receiver": "Frank Scholz, Wodorf 10, 23974 Blowatz, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "29.01.2026",
-    "deliveryDate": "04.02.2026",
+    "deliveryDate": "05.02.2026, 15:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
