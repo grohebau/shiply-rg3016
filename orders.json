@@ -1,6 +1,6 @@
 {
   "S33507": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Pflegler 4, 79576 Weil am Rhein, Deutschland",
     "receiver": "Frank Scholz, Wodorf 10, 23974 Blowatz, Deutschland",
@@ -28,10 +28,10 @@
     "orderDate": "29.01.2026",
     "deliveryDate": "05.02.2026, 15:30 Uhr",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Am Holz 1",
+      "postal_code": "21629",
+      "city": "Neu Wulmstorf",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
